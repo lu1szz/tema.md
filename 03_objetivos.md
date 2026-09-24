@@ -6,26 +6,25 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Como a saúde mental pode impedir uma pessoa de ter acesso a oportunidades de estudo e trabalho?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Identificar os impactos do uso excessivo das redes sociais nas relações de aprendizado e dificuldade de empregabilidade]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[Dificuldade de aprendizagem]`
+2. `[Inserção no mercado de trabalho]`
+3. `[Uso excessivo de redes socias]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Como a saúde mental pode impedir uma pessoa de ter acesso a oportunidades de estudo e trabalho?]` |
+| Objetivo geral | `[Identificar os impactos do uso excessivo das redes sociais nas relações de aprendizado e dificuldade de empregabilidade]` |
+| Resultado esperado | `[Identificar e compreender os principais impactos negativos do uso excessivo das redes sociais]` |
 
 ## Produto da etapa
 
